@@ -20,11 +20,6 @@
 */
 
 /*
-#ifndef KEYBOARD_h
-#define KEYBOARD_h
-*/
-
-/*
  Copyright (c) 2018, Gidalo
  Layout Italian keyboard mod
  */
