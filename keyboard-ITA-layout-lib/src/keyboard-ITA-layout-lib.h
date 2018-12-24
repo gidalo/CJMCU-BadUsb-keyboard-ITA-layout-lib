@@ -20,8 +20,8 @@
  Layout Italian keyboard mod
  */
  
-#ifndef KEYBOARD-ITA-LAYOUT-LIB_h
-#define KEYBOARD-ITA-LAYOUT-LIB_h
+#ifndef KEYBOARD_h
+#define KEYBOARD_h
 
 #include "HID.h"
 
