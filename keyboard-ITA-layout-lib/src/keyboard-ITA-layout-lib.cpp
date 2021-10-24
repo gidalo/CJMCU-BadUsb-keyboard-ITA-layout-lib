@@ -16,8 +16,9 @@
 */
 
 /*
- Copyright (c) 2018, Gidalo
+ Copyright (c) 2018-2021, Gidalo
  Layout Italian keyboard mod
+ Email info@gidalo.it
  */
 
 #include "keyboard-ITA-layout-lib.h"
